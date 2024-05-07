@@ -1,0 +1,35 @@
+[
+    
+    { 
+        "Clientes":
+        { 
+        "Nuevos":"Usuarios",
+        "Personas":
+            {
+                "Identificacion":1,
+                "Nombre":"Camila",
+                "Apellido":"Molina",
+                "Direccion":"calle 1b",
+                "Celular":"321468452",
+                "Categoria":"Nuevos"
+            },
+            {
+                "Identificacion":1,
+                "Nombre":"Camila",
+                "Apellido":"Molina",
+                "Direccion":"calle 1b",
+                "Celular":"321468452",
+                "Categoria":"Nuevos"
+            },
+            {
+                "Identificacion":1,
+                "Nombre":"Camila",
+                "Apellido":"Molina",
+                "Direccion":"calle 1b",
+                "Celular":"321468452",
+                "Categoria":"Nuevos"
+            }
+        },
+       
+    }
+]
